@@ -1,12 +1,3 @@
 ---
 layout: default
 ---
-
-
-
-
-
-
-
-
-
